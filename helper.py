@@ -1,0 +1,1 @@
+str = "ALL strs helpers"
